@@ -1,4 +1,4 @@
 <?php
 echo "<h1>Hello z PHP</h1>";
 echo "PHP verze: " . phpversion();
-echo "PHP verze: " . phpinfo();
+echo "PHP info: " . phpinfo();
